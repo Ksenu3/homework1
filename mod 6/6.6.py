@@ -25,3 +25,4 @@ elif yksikkohinta2 < yksikkohinta1:
     print("Toinen pizza antaa paremman vastineen rahalle.")
 else:
     print("Pizzat ovat yhtä edullisia.")
+
